@@ -26,7 +26,7 @@ function addBday(e) {
     li.className = "collection-item";
     row.className = "row";
     col.className = "col s12 m6";
-    cardBG.className = "card pink darken-1";
+    cardBG.className = "card blue darken-1";
     cardContent.className = "card-content white-text";
     cardTitle.className = "card-title";
 
