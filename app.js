@@ -22,11 +22,12 @@ function addBday(e) {
     const cardBG = document.createElement("div");
     const cardContent = document.createElement("div");
     const cardTitle = document.createElement("span");
+    const del = document.createElement("a");
 
     li.className = "collection-item";
     row.className = "row";
     col.className = "col s12 m6";
-    cardBG.className = "card blue darken-1";
+    cardBG.className = "card pink darken-1";
     cardContent.className = "card-content white-text";
     cardTitle.className = "card-title";
 
